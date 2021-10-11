@@ -1,0 +1,27 @@
+GGOODL RCDATA .\res\bloc\GaugeGreenLeft.png
+GGOODM RCDATA .\res\bloc\GaugeGreenMiddle.png
+GHUHOM RCDATA .\res\bloc\GaugeRedMiddle.png
+GHUHOR RCDATA .\res\bloc\GaugeRedRight.png
+GDRV   RCDATA .\res\bloc\GroundDrive.png
+GDRVSL RCDATA .\res\bloc\GroundDriveSel.png
+GNET   RCDATA .\res\bloc\GroundNetwork.png
+GNETSL RCDATA .\res\bloc\GroundNetworkSel.png
+GOTH   RCDATA .\res\bloc\GroundOther.png
+GOTHSL RCDATA .\res\bloc\GroundOtherSel.png 
+IDT1   RCDATA .\res\infos\type1.ico
+IDT2   RCDATA .\res\infos\type2.ico
+IDT3   RCDATA .\res\infos\type3.ico
+IDT4   RCDATA .\res\infos\type4.ico
+IDT5   RCDATA .\res\infos\type5.ico
+IDT6   RCDATA .\res\infos\type6.ico
+ABOUT  RCDATA .\res\about\about.png
+DEEZER RCDATA .\res\about\deezer.html
+DANCE0 RCDATA .\res\about\dance\Dance1.png
+DANCE1 RCDATA .\res\about\dance\Dance2.png
+DANCE2 RCDATA .\res\about\dance\Dance3.png
+DANCE3 RCDATA .\res\about\dance\Dance4.png
+DANCE4 RCDATA .\res\about\dance\Dance5.png
+DANCE5 RCDATA .\res\about\dance\Dance6.png
+DANCE6 RCDATA .\res\about\dance\Dance7.png
+DANCE7 RCDATA .\res\about\dance\Dance8.png
+
